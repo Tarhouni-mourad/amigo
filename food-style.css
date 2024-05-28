@@ -12,7 +12,7 @@
 .veg {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("/images/a\ \(17\).jpeg");
+    url("images/a\ \(17\).jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
